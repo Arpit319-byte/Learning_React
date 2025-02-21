@@ -1,0 +1,26 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arpit319-byte/Learning_React.git"
+  },
+  "keywords": [
+    "React",
+    "Namaste_React"
+  ],
+  "author": "Arpit Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arpit319-byte/Learning_React/issues"
+  },
+  "homepage": "https://github.com/Arpit319-byte/Learning_React#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}

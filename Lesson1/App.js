@@ -5,4 +5,4 @@ const root=ReactDOM.createRoot(document.getElementById("root"));
 root.render(heading);
 
 console.log(heading);
-console.log(root);
+console.log(root);                          
